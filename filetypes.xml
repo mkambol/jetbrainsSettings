@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MqttStreamSource" type="JAVA" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping ext="ktr" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
