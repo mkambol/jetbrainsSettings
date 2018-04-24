@@ -88,8 +88,13 @@
       <option name="send-app-info" value="true" />
     </driver>
     <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" />
+      <artifact name="HSQLDB" use="true" version="2.4.0" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/drivers/hsqldb-2.3.2.jar</url>
+      </library>
     </driver>
   </component>
 </application>
