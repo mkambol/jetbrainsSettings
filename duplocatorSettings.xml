@@ -1,6 +1,5 @@
 <application>
   <component name="DuplocatorSettings">
-    <option name="DISTINGUISH_LITERALS" value="false" />
     <option name="SELECTED_PROFILES">
       <set>
         <option value="Java" />
