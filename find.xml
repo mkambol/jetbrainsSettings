@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'kettle-engine'" />
-    <option name="defaultScopeName" value="Module 'kettle-engine'" />
-    <option name="SEARCH_SCOPE" value="Module 'kettle-engine'" />
+    <option name="customScope" value="File '.../engine/src/main/java/org/pentaho/di/trans/cluster/TransSplitter.java [kettle-engine]'" />
+    <option name="defaultScopeName" value="File '.../engine/src/main/java/org/pentaho/di/trans/cluster/TransSplitter.java [kettle-engine]'" />
+    <option name="SEARCH_SCOPE" value="File '.../engine/src/main/java/org/pentaho/di/trans/cluster/TransSplitter.java [kettle-engine]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
