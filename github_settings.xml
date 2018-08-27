@@ -1,8 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="8008b893-9015-444c-876e-50d01778664b" name="mkambol">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="mkambol" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="ANONYMOUS_GIST" value="true" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
