@@ -38,6 +38,10 @@
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
