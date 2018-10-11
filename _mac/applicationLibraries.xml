@@ -17,14 +17,12 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
-    <library name="Python 3.7 (python-executor) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/997063250" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -36,10 +34,8 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/dev/pentaho/pentaho-ee.git/data-integration/plugins/python-executor/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/997063250" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
