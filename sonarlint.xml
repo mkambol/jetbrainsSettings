@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.pentaho.com:9000" />
+          <token>dfcfdf9cdf9cdf9edf9cdf92df93df9cdfccdf98dfc9df9edfcbdf9edfc9df9cdf9adf93df98dfc9df9adf92df99df9fdf9cdf98df9adf98dfcedfc9dfc8dfccdfc8df9edf98dfc9df9edf9adfc9df9d</token>
+          <option name="name" value="sonarqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
