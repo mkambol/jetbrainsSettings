@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../api/src/main/java/org/pentaho/metaverse/api/analyzer/kettle/annotations/AnnotationDrivenStepMetaAnalyzer.java [pentaho-metaverse-api]'" />
-    <option name="defaultScopeName" value="File '.../api/src/main/java/org/pentaho/metaverse/api/analyzer/kettle/annotations/AnnotationDrivenStepMetaAnalyzer.java [pentaho-metaverse-api]'" />
-    <option name="SEARCH_SCOPE" value="File '.../api/src/main/java/org/pentaho/metaverse/api/analyzer/kettle/annotations/AnnotationDrivenStepMetaAnalyzer.java [pentaho-metaverse-api]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
