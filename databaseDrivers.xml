@@ -18,10 +18,6 @@
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
@@ -31,6 +27,10 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -54,22 +54,12 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
-        </library>
-      </artifact>
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" version="42.2.2" />
@@ -113,6 +103,14 @@
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="clickhouse">
+      <artifact name="ClickHouse" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="cassandra">
+      <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="java.sql.Driver" name="KSQL" driver-class="com.github.mmolimar.ksql.jdbc.KsqlDriver">
