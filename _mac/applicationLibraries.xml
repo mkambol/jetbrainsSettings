@@ -79,6 +79,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Pipenv (dev-repl) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
