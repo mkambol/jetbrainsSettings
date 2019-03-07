@@ -129,5 +129,22 @@
       </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
+    <driver id="12833103-749a-40e6-bd6e-c7cb6e6dbee2" name="Snowflake" dialect="PostgreSQL" driver-class="com.snowflake.client.jdbc.SnowflakeDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/drivers/snowflake-jdbc-3.6.9.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="b9e43056-11ad-4908-a6dc-17e33c196757" name="User Driver [2]" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
   </component>
 </application>
