@@ -7,5 +7,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
