@@ -199,6 +199,93 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (repl) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/devrepl-1.0-py3.6.egg!/" />
+        <root url="jar://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/terminaltables-3.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/jira-2.0.1.0rc1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/tqdm-4.35.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/GitPython-3.0.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/colorama-0.4.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/PyInquirer-1.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/DateTime-4.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/six-1.12.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests-2.22.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests_toolbelt-0.9.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests_oauthlib-1.2.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/pbr-5.4.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/oauthlib-3.1.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/defusedxml-0.6.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/gitdb2-2.0.5-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/regex-2019.8.19-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/Pygments-2.4.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/prompt_toolkit-1.0.14-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/zope.interface-4.6.0-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/urllib3-1.25.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/idna-2.8-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/PyJWT-1.7.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/cryptography-2.7-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/smmap2-2.0.5-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/wcwidth-0.1.7-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/cffi-1.12.3-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/asn1crypto-0.24.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-636048892" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/devrepl-1.0-py3.6.egg!/" />
+        <root url="jar://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/terminaltables-3.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/jira-2.0.1.0rc1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/tqdm-4.35.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/GitPython-3.0.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/colorama-0.4.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/PyInquirer-1.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/DateTime-4.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/six-1.12.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests-2.22.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests_toolbelt-0.9.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/requests_oauthlib-1.2.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/pbr-5.4.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/oauthlib-3.1.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/defusedxml-0.6.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/gitdb2-2.0.5-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/regex-2019.8.19-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/Pygments-2.4.2-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/prompt_toolkit-1.0.14-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/zope.interface-4.6.0-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/urllib3-1.25.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/idna-2.8-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/PyJWT-1.7.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/cryptography-2.7-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/smmap2-2.0.5-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/wcwidth-0.1.7-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/cffi-1.12.3-py3.6-macosx-10.7-x86_64.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/asn1crypto-0.24.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/anaconda2/envs/repl/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-636048892" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (waltham) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/anaconda2/envs/python/lib/python3.6" />
