@@ -3,7 +3,7 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.pentaho.com:9000" />
+          <option name="hostUrl" value="http://sonar.pentaho.net:9000" />
           <token>df9ddf99df9adf92df9ddf99dfcbdfc8df9adf9edfccdf93dfccdf9fdf9adf9cdfcfdf9bdfcbdf9cdf93df9cdfccdfc9df9edf9ddf98df9cdf93df93df9bdf9edf93df9adfccdf9edf93df9ddf92df9b</token>
           <option name="name" value="pentaho" />
           <organizationKey>default-organization</organizationKey>
