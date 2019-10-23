@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="org.pentaho.di.i18n.BaseMessages.getString(packageClass,key,parameters)" />
+        <added pattern="java.sql.Statement.execute(sql)" />
       </blacklist>
     </blacklists>
   </component>
