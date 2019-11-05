@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ktr" type="PLAIN_TEXT" />
+      <mapping pattern="repl" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
