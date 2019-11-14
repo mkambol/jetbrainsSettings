@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/pentaho/pentaho-kettle.git/engine/src/main/java/org/pentaho/di/www/GetStatusServlet.java [kettle-engine]'" />
-    <option name="defaultScopeName" value="File '~/dev/pentaho/pentaho-kettle.git/engine/src/main/java/org/pentaho/di/www/GetStatusServlet.java [kettle-engine]'" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/pentaho/pentaho-kettle.git/engine/src/main/java/org/pentaho/di/www/GetStatusServlet.java [kettle-engine]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
