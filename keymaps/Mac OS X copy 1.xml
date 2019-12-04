@@ -23,6 +23,12 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
   </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="com.jacksingleton.tabtonextsplitter">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift right" />
   </action>
