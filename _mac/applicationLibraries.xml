@@ -167,6 +167,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (PyOhio_2019) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda2/envs/python/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1105754167" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda2/envs/python/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/PyOhio_2019-5vlO7pvT/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1105754167" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (operator) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/anaconda2/envs/operator/lib/python3.6" />
