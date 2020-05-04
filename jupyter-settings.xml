@@ -5,8 +5,8 @@
         <entry key="$USER_HOME$/dev/mkambol/py_playground/py_playground.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="98bc526509b18501a7eecad5a4c920c34f933a976aab608f" />
-              <option name="urlString" value="http://localhost:8888/" />
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda2/envs/jupyterlab/bin/python" />
             </JupyterConnectionParameters>
           </value>
         </entry>
