@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="I18nize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
