@@ -7,6 +7,7 @@
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="ktr" type="PLAIN_TEXT" />
       <mapping ext="prpt" type="PLAIN_TEXT" />
+      <mapping ext="ia_theme" type="PLAIN_TEXT" />
       <mapping pattern="repl" type="Shell Script" />
     </extensionMap>
   </component>
