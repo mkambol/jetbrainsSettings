@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="postgres/huh" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="ktr" type="PLAIN_TEXT" />
       <mapping ext="prpt" type="PLAIN_TEXT" />
