@@ -1,0 +1,23 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <filesTool value="/Applications/Beyond Compare.app/Contents/MacOS/bcomp" newValue="/Applications/Beyond Compare.app/Contents/MacOS/bcomp" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/bcomp" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>

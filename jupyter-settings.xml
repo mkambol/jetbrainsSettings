@@ -1,0 +1,27 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/dev/mkambol/py_playground/py_playground.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda2/envs/jupyterlab/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/pentaho/pentaho-kettle.git/plugins/aggregate-rows/aggregate-rows.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/.local/share/virtualenvs/ml_notebooks-g9eDSkCy/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="JupyterSettings">
+    <option name="showSourcesInPreview" value="false" />
+  </component>
+</application>
