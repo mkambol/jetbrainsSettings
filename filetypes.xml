@@ -6,6 +6,7 @@
       <mapping pattern="ngs-app-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.import" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="base" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
