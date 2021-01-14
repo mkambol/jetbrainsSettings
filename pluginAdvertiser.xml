@@ -1052,6 +1052,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mod">
           <value>
             <plugin>
@@ -2024,6 +2032,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="GNUmakefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -2092,6 +2108,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
             </plugin>
           </value>
         </entry>
@@ -2373,6 +2397,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="JavascriptTestRunnerJasmine">
+                    <value>
+                      <FeaturePluginData displayName="Jasmine" pluginName="Jasmine" pluginId="io.pivotal.jasmine" />
+                    </value>
+                  </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
@@ -2391,6 +2420,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
