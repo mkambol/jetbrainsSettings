@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.tf</mask>
     <mask>*.json</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
