@@ -6,7 +6,7 @@
   </component>
   <component name="ExternalDiffSettings">
     <option name="DIFF_DEFAULT" value="true" />
-    <option name="DIFF_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/bcomp" />
+    <option name="DIFF_EXE_PATH" value="$USER_HOME$/Applications/Beyond Compare.app/Contents/MacOS/bcomp" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
