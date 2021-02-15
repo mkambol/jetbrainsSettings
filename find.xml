@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../natgeoed'" />
-    <option name="defaultScopeName" value="Directory '.../natgeoed'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../natgeoed'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -14,9 +15,9 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
-    <mask>*.tf</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
