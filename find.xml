@@ -5,13 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
@@ -20,5 +20,6 @@
     <mask>*.txt</mask>
     <mask>*.tf</mask>
     <mask>*.py</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
