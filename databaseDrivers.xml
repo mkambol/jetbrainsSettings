@@ -1,159 +1,49 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="cassandra">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="couchbase_query">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
     <driver id="db2">
       <artifact id="DB2" name="DB2" use="true" version="4.23.42" />
-      <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="db2.jtopen">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="derby.embedded">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
     </driver>
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.196" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="hive">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.local">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact id="HSQLDB" name="HSQLDB" use="true" version="2.4.0" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
       <library>
         <url>file://$USER_HOME$/drivers/hsqldb-2.3.2.jar</url>
       </library>
     </driver>
-    <driver id="mariadb">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mongo">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sqlserver.jtds">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="azure.ms">
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="mysql_aurora">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle.19">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="1.2.16.1027" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-    </driver>
-    <driver id="snowflake">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="sybase.jtds">
       <artifact id="jTDS (SQL Server and Sybase)" name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="vertica">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="java.sql.Driver" name="KSQL" driver-class="com.github.mmolimar.ksql.jdbc.KsqlDriver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
       <library>
         <url>file://$USER_HOME$/temp/ksql/scala-library-2.11.11.jar</url>
       </library>
@@ -165,19 +55,10 @@
       </library>
     </driver>
     <driver id="12833103-749a-40e6-bd6e-c7cb6e6dbee2" name="Snowflake" dialect="PostgreSQL" driver-class="com.snowflake.client.jdbc.SnowflakeDriver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
       <library>
         <url>file://$USER_HOME$/drivers/snowflake-jdbc-3.6.9.jar</url>
       </library>
     </driver>
-    <driver id="b9e43056-11ad-4908-a6dc-17e33c196757" name="User Driver [2]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
+    <driver id="b9e43056-11ad-4908-a6dc-17e33c196757" name="User Driver [2]" driver-class="java.sql.Driver" />
   </component>
 </application>
