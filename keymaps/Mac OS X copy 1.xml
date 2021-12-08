@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift plus" />
+  </action>
   <action id="I18nize">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
   </action>
