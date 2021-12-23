@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="25600" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
 </application>
