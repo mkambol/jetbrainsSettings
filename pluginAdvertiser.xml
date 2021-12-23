@@ -47,6 +47,11 @@
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="ApexOfflineDebuggerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Apex Offline Debugger" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -377,6 +382,16 @@
                       <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
                     </value>
                   </entry>
+                  <entry key="com.illuminatedcloud.intellij">
+                    <value>
+                      <FeaturePluginData displayName="Apex Unit Tests" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="com.illuminatedcloud.intellij.functions.localInvocation">
+                    <value>
+                      <FeaturePluginData displayName="Salesforce Function Local Invocation" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -425,6 +440,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="IlluminatedCloud">
+                    <value>
+                      <FeaturePluginData displayName="Illuminated Cloud" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
                     </value>
                   </entry>
                   <entry key="Python">
