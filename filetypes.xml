@@ -8,7 +8,9 @@
       <mapping pattern="ngs-app-config" type="PLAIN_TEXT" />
       <mapping pattern=".terraform-version" type="PLAIN_TEXT" />
       <mapping pattern=".env.import" type="PLAIN_TEXT" />
+      <mapping pattern=".meshrc.yaml.orig" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="perf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
