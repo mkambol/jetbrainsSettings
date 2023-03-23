@@ -322,6 +322,11 @@
                       <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="SparkSubmitConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Spark Submit" pluginName="Big Data Tools" pluginId="com.intellij.bigdatatools" />
+                    </value>
+                  </entry>
                   <entry key="SpringBootApplicationConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Spring Boot" pluginName="Spring Boot" pluginId="com.intellij.spring.boot" bundled="true" />
