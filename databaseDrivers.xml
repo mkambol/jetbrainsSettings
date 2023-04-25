@@ -13,7 +13,7 @@
       </library>
     </driver>
     <driver id="sqlserver.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="12.2.0" />
     </driver>
     <driver id="mysql.8">
       <artifact />
